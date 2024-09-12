@@ -1,0 +1,27 @@
+# ninja log v6
+38	1824	7477768032422908	qt_programming_2024_autogen/timestamp	e0db9a73dd7fba30
+38	1824	7477768032422908	qt_programming_2024_autogen/mocs_compilation.cpp	e0db9a73dd7fba30
+38	1824	7477768032422908	D:/Git_about/Black_Myth/qt-programming-2024/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt_programming_2024_autogen/timestamp	e0db9a73dd7fba30
+38	1824	7477768032422908	D:/Git_about/Black_Myth/qt-programming-2024/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt_programming_2024_autogen/mocs_compilation.cpp	e0db9a73dd7fba30
+1839	2156	7477768038149195	qt_programming_2024_autogen/GBFAFXFCVO/qrc_assets.cpp	cdc0fadbc8cb4e01
+1839	2156	7477768038149195	D:/Git_about/Black_Myth/qt-programming-2024/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt_programming_2024_autogen/GBFAFXFCVO/qrc_assets.cpp	cdc0fadbc8cb4e01
+2169	10041	7477768038391716	CMakeFiles/qt_programming_2024.dir/src/main.cpp.obj	58faeebe54d055ed
+2375	10078	7477768040480606	CMakeFiles/qt_programming_2024.dir/src/Items/LegEquipments/WellWornTrousers.cpp.obj	4b654ca242df4405
+2236	10107	7477768039031564	CMakeFiles/qt_programming_2024.dir/src/Items/Characters/Link.cpp.obj	42acab7b5ce02a36
+2403	10144	7477768040732207	CMakeFiles/qt_programming_2024.dir/src/Scenes/Scene.cpp.obj	a171089aa66a7dac
+2350	10176	7477768040102868	CMakeFiles/qt_programming_2024.dir/src/Items/Armors/OldShirt.cpp.obj	9851093405e11494
+2217	10205	7477768038879162	CMakeFiles/qt_programming_2024.dir/src/Items/Characters/Character.cpp.obj	9c53b6cf4febbd0e
+2184	10208	7477768038564031	CMakeFiles/qt_programming_2024.dir/src/MyGame.cpp.obj	7798d56c33cb8da5
+2297	10210	7477768039634130	CMakeFiles/qt_programming_2024.dir/src/Items/LegEquipments/LegEquipment.cpp.obj	2cf485ee57427cda
+10107	10523	7477768117805647	CMakeFiles/qt_programming_2024.dir/src/Items/Mountable.cpp.obj	6ff7be6e6511a66d
+2321	10560	7477768039946602	CMakeFiles/qt_programming_2024.dir/src/Items/HeadEquipments/CapOfTheHero.cpp.obj	f5d588c980fe7efb
+2255	10898	7477768039168521	CMakeFiles/qt_programming_2024.dir/src/Items/Armors/Armor.cpp.obj	39ac533f4801f1fe
+2278	11010	7477768039477677	CMakeFiles/qt_programming_2024.dir/src/Items/HeadEquipments/HeadEquipment.cpp.obj	21be8fecad1decdb
+2199	11064	7477768038698397	CMakeFiles/qt_programming_2024.dir/src/Items/Item.cpp.obj	c8b5b1713d309650
+2434	11347	7477768041044689	CMakeFiles/qt_programming_2024.dir/src/Scenes/BattleScene.cpp.obj	6f9afdf33ddd77bc
+2157	11617	7477768038295533	CMakeFiles/qt_programming_2024.dir/qt_programming_2024_autogen/mocs_compilation.cpp.obj	cee1954bc1b0f405
+10177	12447	7477768118498310	CMakeFiles/qt_programming_2024.dir/qt_programming_2024_autogen/GBFAFXFCVO/qrc_assets.cpp.obj	9a50992f67fe7ae6
+10041	13827	7477768117148807	CMakeFiles/qt_programming_2024.dir/src/Items/Maps/Map.cpp.obj	e12b6fe84dbe22e1
+10078	13905	7477768117516441	CMakeFiles/qt_programming_2024.dir/src/Items/Maps/Battlefield.cpp.obj	a40fb7e192ab4474
+10145	13950	7477768118185205	CMakeFiles/qt_programming_2024.dir/src/Items/Armors/FlamebreakerArmor.cpp.obj	c49fd5fa8667d6e0
+13950	15254	7477768156234664	qt_programming_2024.exe	d1cbbc757a45c98e
